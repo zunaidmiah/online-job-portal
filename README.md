@@ -1,1 +1,1 @@
-# online-job-portal
+Actually in this project i just try to provide a web portal which name is online job portal.that project have 2 part.One is for normal user who can see list all of job and they can apply for a job.and there can registration a new user.Another part is for admin rules who can post a job, can see user list and also can delete a user if any user do anything wrong, admin can edit and delete any job also admin can all applied job list.
